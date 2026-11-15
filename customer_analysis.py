@@ -9,7 +9,7 @@ import numpy as np
 import plotly.graph_objects as go
 import plotly.express as px
 
-from modules.chart_theme import apply_luxury_theme, LUXURY_PALETTE
+from chart_theme import apply_luxury_theme, LUXURY_PALETTE
 
 def compute_customer_analytics(merged_df: pd.DataFrame, customers_df: pd.DataFrame) -> Tuple[pd.DataFrame, Dict[str, Any]]:
     """
