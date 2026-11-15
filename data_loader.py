@@ -59,7 +59,7 @@ def load_sample_datasets() -> Tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     
     if not (os.path.exists(sales_path) and os.path.exists(products_path) and os.path.exists(customers_path)):
         # Generate them on the fly if missing
-        from data.generate_data import generate_fashion_dataset
+        from generate_data import generate_fashion_dataset
         return generate_fashion_dataset(output_dir=sample_dir)
         
     sales_df = pd.read_csv(sales_path)
