@@ -10,7 +10,7 @@ import numpy as np
 import plotly.graph_objects as go
 import plotly.express as px
 
-from modules.chart_theme import apply_luxury_theme, LUXURY_PALETTE, BURGUNDY_MONOCHROME
+from chart_theme import apply_luxury_theme, LUXURY_PALETTE, BURGUNDY_MONOCHROME
 
 def filter_sales_data(
     df: pd.DataFrame,
