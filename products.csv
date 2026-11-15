@@ -1,0 +1,37 @@
+Product_ID,Product_Name,Category,Brand,Size,Color,Selling_Price,Cost_Price,Reorder_Level,Available_Stock
+PRD-101,Oxford Cotton Classic Shirt,Men's Clothing,Sartorial,L,White,75.0,32.0,15,54
+PRD-102,Tailored Italian Wool Blazer,Men's Clothing,Maison Royale,40R,Navy,295.0,125.0,10,8
+PRD-103,Slim-Fit Chino Trousers,Men's Clothing,Atelier V,32,Beige,85.0,36.0,15,54
+PRD-104,Pure Cashmere Crewneck Sweater,Men's Clothing,L'Aura Mode,M,Camel,220.0,92.0,12,43
+PRD-105,Linen Resort Cuban Collar Shirt,Men's Clothing,Sartorial,L,Cream,65.0,28.0,15,171
+PRD-106,Fine Merino Wool Polo,Men's Clothing,Sartorial,M,Burgundy,95.0,40.0,12,53
+PRD-201,Silk Charmeuse Wrap Dress,Women's Clothing,Maison Royale,M,Burgundy,240.0,102.0,12,7
+PRD-202,Double-Breasted Trench Coat,Women's Clothing,Atelier V,S,Beige,310.0,135.0,10,69
+PRD-203,Pleated Georgette Midi Skirt,Women's Clothing,L'Aura Mode,S,Ivory,110.0,48.0,15,28
+PRD-204,Structured Hourglass Blazer,Women's Clothing,Maison Royale,M,Black,280.0,118.0,10,64
+PRD-205,Velvet Midnight Evening Gown,Women's Clothing,L'Aura Mode,S,Emerald,360.0,155.0,8,0
+PRD-206,Poplin Tiered Summer Dress,Women's Clothing,Atelier V,M,Blush,135.0,58.0,15,50
+PRD-301,Handmade Italian Leather Loafers,Footwear,Sartorial,9,Cognac,210.0,88.0,10,23
+PRD-302,Suede Chelsea Boots,Footwear,Atelier V,10,Espresso,225.0,95.0,10,45
+PRD-303,Minimalist Leather Court Sneakers,Footwear,Atelier V,9,White,150.0,62.0,18,64
+PRD-304,Velvet Stiletto Evening Pumps,Footwear,L'Aura Mode,7,Burgundy,195.0,82.0,8,68
+PRD-305,Burnished Suede Derby Shoes,Footwear,Sartorial,10,Sand,185.0,78.0,10,131
+PRD-306,Strappy Metallic Heeled Sandals,Footwear,Maison Royale,8,Gold,170.0,72.0,8,0
+PRD-401,Silk Twill Monogram Scarf,Accessories,Maison Royale,Free Size,Burgundy Print,125.0,45.0,15,57
+PRD-402,Reversible Full-Grain Leather Belt,Accessories,Sartorial,34,Black/Brown,80.0,30.0,15,41
+PRD-403,Ribbed Cashmere Beanie,Accessories,L'Aura Mode,Free Size,Oatmeal,70.0,26.0,15,43
+PRD-404,Acetate Polarized Sunglasses,Accessories,Atelier V,Free Size,Tortoise,145.0,52.0,12,26
+PRD-405,Minimalist Saffiano Cardholder,Accessories,Maison Royale,Free Size,Navy,55.0,18.0,20,33
+PRD-406,Knitted Cashmere Muffler,Accessories,L'Aura Mode,Free Size,Camel,115.0,44.0,12,40
+PRD-501,Quilted Lambskin Crossbody Bag,Bags,Maison Royale,Medium,Burgundy,320.0,138.0,8,5
+PRD-502,Structured Leather Work Tote,Bags,Atelier V,Large,Tan,285.0,120.0,10,37
+PRD-503,Envelope Evening Saffiano Clutch,Bags,L'Aura Mode,Small,Champagne,160.0,65.0,10,46
+PRD-504,Heritage Leather Weekend Duffle,Bags,Sartorial,Large,Espresso,340.0,145.0,6,52
+PRD-505,Heavy Canvas Everyday Shopper,Bags,Atelier V,Large,Natural,75.0,28.0,20,165
+PRD-506,Compact Crescent Saddle Bag,Bags,Maison Royale,Medium,Forest Green,210.0,88.0,10,45
+PRD-601,Hand-Embroidered Chanderi Kurta Set,Ethnic Wear,Heritage Silk,M,Ivory Gold,180.0,75.0,12,30
+PRD-602,Chanderi Pure Silk Festive Saree,Ethnic Wear,Heritage Silk,Free Size,Royal Burgundy,230.0,95.0,10,8
+PRD-603,Handloom Tussar Silk Nehru Jacket,Ethnic Wear,Heritage Silk,40,Wine,140.0,58.0,12,48
+PRD-604,Georgette Anarkali Festive Gown,Ethnic Wear,Heritage Silk,S,Deep Emerald,275.0,115.0,8,38
+PRD-605,Brocade Jacquard Festive Sherwani,Ethnic Wear,Heritage Silk,42,Midnight Wine,350.0,145.0,6,42
+PRD-606,Banarasi Zari Border Dupatta,Ethnic Wear,Heritage Silk,Free Size,Scarlet,95.0,38.0,15,25
