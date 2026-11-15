@@ -48,8 +48,7 @@ COLUMN_ALIASES = {
 }
 
 def get_sample_data_dir() -> str:
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    return os.path.join(base_dir, "data", "sample_data")
+    return os.path.dirname(os.path.abspath(__file__))
 
 def load_sample_datasets() -> Tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """Loads default sample CSV datasets for sales, products, and customers."""
